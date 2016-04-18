@@ -1,12 +1,8 @@
+# Profile
 
-<<<<<<< HEAD
 ## Contents:
 
-<<<<<<< HEAD
-1. [Brief info](Brief info)
-=======
 1. Brief info
->>>>>>> 6fdec0b279ffed558c4a4558f68006a28c2b8526
 2. Study
 3. Contacts
 4. Programing
@@ -38,5 +34,3 @@
 - Height : 1.72m
 - Weight : 56kg
 - Sport : Football,Taekwondo,...
-=======
->>>>>>> origin/master
